@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF2485F3C975969A5C5e4e25604205b106d91aFa8",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf2485f3c975969a5c5e4e25604205b106d91afa8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nuke Bunny",
+  "SYMBOL": "NBRC",
+  "MAX_SUPPLY": 8500,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 385000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nuke-bunny",
+  "SHOW_BACKGROUND": true
+}
